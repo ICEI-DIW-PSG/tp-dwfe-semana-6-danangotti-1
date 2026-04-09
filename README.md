@@ -10,18 +10,18 @@ No trabalho dessa semana vamos alterar o projeto para que a responsividade da ho
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Dan Lucca Angotti Duarte
+- Matricula: 913159
+- Proposta de projeto escolhida: Guia Turistico de Belo Horizonte
+- Breve descrição sobre seu projeto: O Descubra BH é um site desenvolvido com o objetivo de apresentar a cidade de Belo Horizonte de forma prática e atrativa. A plataforma reúne informações sobre pontos turísticos, dicas úteis, gastronomia e curiosidades, ajudando moradores e visitantes a explorarem o melhor da cidade.
 
 ## Print da versão responsiva com Bootstrap [DESKTOP]
 
-<<  COLOQUE A IMAGEM AQUI >>
+![alt text](image-1.png)
 
 ## Print da versão responsiva com Bootstrap [MOBILE] (*)
 
-<<  COLOQUE A IMAGEM AQUI >>
+![alt text](image-2.png)
 
 
 (*) Utilize as ferramentas do desenvolvedor do seu navegador para colocar no modo reponsivo, escolha um celular qualquer e recarregue a página antes de tirar o print. 
